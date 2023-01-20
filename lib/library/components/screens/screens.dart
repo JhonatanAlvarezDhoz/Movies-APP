@@ -1,0 +1,10 @@
+export 'package:practica/library/components/screens/alert_screen.dart';
+export 'package:practica/library/components/screens/card_screen.dart';
+export 'package:practica/library/components/screens/listview1_screen%20copy.dart';
+export 'package:practica/library/components/screens/home_screen.dart';
+export 'package:practica/library/components/screens/listview2_screen.dart';
+export 'package:practica/library/components/screens/avatar_screen.dart';
+export 'package:practica/library/components/screens/animated_screen.dart';
+export 'package:practica/library/components/screens/inputs_screen.dart';
+export 'package:practica/library/components/screens/slider_screen.dart';
+export 'package:practica/library/components/screens/list_view_builder.dart';
